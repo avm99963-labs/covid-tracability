@@ -6,3 +6,6 @@ rules:
   - base: topic-time-selection-improvements
     upstream: delefme:topic-time-selection-improvements
     mergeMethod: hardreset
+  - base: topic-signin
+    upstream: delefme:topic-signin
+    mergeMethod: hardreset
